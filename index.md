@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to bzi.io
 
 You can use the [editor on GitHub](https://github.com/boegh/bzi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
