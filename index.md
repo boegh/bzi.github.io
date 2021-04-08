@@ -9,4 +9,4 @@ title: bzi.io
 
 This is my workload area; the place where I do stuff (and &quot;stuff&quot;). A sandbox. A pseudo-creative outlet.
 
-<p style="text-align: right"><a href="https://boegh.me/">&#9829;&#8594; &nbsp; &#9829;&#8594; &nbsp; &#9829;&#8594;</a></p>
+<p style="text-align: right"><a href="https://henrik.boegh.me/">&#9829;&#8594; &nbsp; &#9829;&#8594; &nbsp; &#9829;&#8594;</a></p>
